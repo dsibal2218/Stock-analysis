@@ -13,4 +13,6 @@ In this challenge, we are editing, or refactoring, the analysis we did in class 
 ![image](https://user-images.githubusercontent.com/98235755/157304124-3a042f50-3ec0-47e7-b14c-8e2f999d35a8.png)
 
 5. Format the cells in the spreadsheet
-7. Provide screenshots of the performance time of the origingal and refactored codes.
+7. Compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored scripts.
+
+## Results and Analysis
