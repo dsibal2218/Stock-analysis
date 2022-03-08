@@ -3,10 +3,13 @@ In this challenge, we are editing, or refactoring, the VBA codes for the analysi
 
 ## Analysis requirements and work detail:
 1. Create a tickerIndex and set to zero
+
 ![image](https://user-images.githubusercontent.com/98235755/157303919-aa680be2-2b05-462e-8dac-84f021bc218e.png)
 
 2. Arrays are created for tickers,tickerVolumes, tickerStartingPrices and tickerEndingPrices. Use the tickerIndex to access the stock ticker for all the variables mentioned.
+
 ![image](https://user-images.githubusercontent.com/98235755/157303983-7c61bda4-3389-4ea5-9359-c264a0405417.png)
+
 ![image](https://user-images.githubusercontent.com/98235755/157304060-00f3f05e-a9df-4712-9ddc-54bc9e062315.png)
 
 3. Loop through stock data, reading and storing all of the values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices. Appropriate comment to explain the purpose of the codes are added
