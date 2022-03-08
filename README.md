@@ -1,5 +1,5 @@
 # Stock-analysis
-In this challenge, we are editing, or refactoring, the analysis we did in class during the VBA module. We are going to refactor so that looping through all the data one time in order to collect the same information that you did in the VBA module. Then, we will determine whether refactoring the code successfully made the VBA script run faster. Finally, we will present a written analysis that explains the findings.
+In this challenge, we are editing, or refactoring, the VBA codes for the analysis we did in class during VBA module. We are going to refactor so that we are looping through all the data one time in order to collect the same information that we did in the VBA module. Then, we will determine whether refactoring the code successfully made the VBA script run faster. Finally, we will present a written analysis that explains the findings.
 
 ## Analysis requirements and work detail:
 1. Create a tickerIndex and set to zero
@@ -24,16 +24,16 @@ The results of the analysis indicates that all but 1 (TERP) stock did well and h
 
 ![image](https://user-images.githubusercontent.com/98235755/157330290-e941a54c-152c-446d-a510-96bb166e36d0.png)
 
-### Advantages and Disadvantages of Refactoring
+### Advantages and Disadvantages of Refactoring Codes
 #### Advantages:
-1. It improved the run time for the system - ie more efficient. The run time for the original code (first two screenshots below) vs refactored code (last 2 screenshots) are shownbelow.
-The original code's perfomance is below:
+1. It improved the run time for the script - ie it ran more efficient. The run time for the original code (first two screenshots) vs refactored code (last 2 screenshots) are shown below.
+
 ![image](https://user-images.githubusercontent.com/98235755/157331806-5c106c74-6c91-4523-a7b9-6acb439031a2.png)
 ![image](https://user-images.githubusercontent.com/98235755/157331864-8a276e6a-c1bd-4b1e-966d-6d490174998d.png)
 ![image](https://user-images.githubusercontent.com/98235755/157332417-353b2dc0-9419-43b2-9d7e-61af8fb32ac2.png)
 ![image](https://user-images.githubusercontent.com/98235755/157332444-2da95b1d-187b-488e-8591-f39712b783db.png)
-2. Another advantage is that the codes are easier to understand and debugging was easier. I had no nested loop so it was easier to figure out where the issue was and it was less confusing.
+2. Another advantage is that the codes are easier to understand and debugging was easier. I had no nested for loops so it was easier to figure out where the issue was while debugging. Lastly, I found that refactoring made the codes less confusing and alot cleaner/clearer.
 
 ### Disadvantages:
-1. It was tedious to do. 
-2. For somebody who doesnt have much experience and does not have much understanding of the original codes, refactoring could become risky and could actually break the program. 
+1. It was tedious to do
+2. In general, for somebody who doesn't have much experience and does not have much understanding of the original codes, refactoring could become risky and could actually break the program. I definitely took alot of time uderstanding it and took alot of trial and error. 
